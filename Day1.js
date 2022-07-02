@@ -15,12 +15,22 @@ if (numeroUm == stringUm) {
 if (numeroTrinta == stringTrinta) {
     console.log('As variáveis numeroTrinta e stringTrinta tem o mesmo valor, mas tipos diferentes.')
 } else {
-    console.log('As variáveis numeroTrinta e stringTrinta não tem o mesmo valor.');
+    console.log('As variáveis numeroTrinta e stringTrinta não tem o mesmo valor.')
 }
 if (numeroDez == stringDez) {
-    console.log('As variáveis numeroDez e stringDez tem o mesmo valor, mas tipos diferentes.');
+    console.log('As variáveis numeroDez e stringDez tem o mesmo valor, mas tipos diferentes.')
 } else {
-    console.log('As variáveis numeroDez e stringDez não tem o mesmo valor.');
+    console.log('As variáveis numeroDez e stringDez não tem o mesmo valor.')
 }
+
+
+
+console.log('Alguns comportamentos estranhos, todos esses exemplos retornando true:')
+console.log('1. false == 0 / 2. null == undefined / 3.  \t\r\n" == 0 / 4.  == 0')
+
+console.log(false == '0');
+console.log(null == undefined);
+console.log(" \t\r\n" == 0);
+console.log(' ' == 0);
 
 //:full_moon:
