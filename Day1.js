@@ -1,3 +1,4 @@
+// #7DaysOfCode - Lógica JS 1/7: Operações Booleanas
 
 let numeroUm = 1
 let stringUm = '1'
