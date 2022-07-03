@@ -13,3 +13,20 @@ if (answer == 'yes' || answer == 's') {
 } else {
     console.log('Ahh... Ok try learn another language.');
 }
+
+/* Load in code pen
+
+let name = prompt('How your name: ')
+let age = prompt('How old are you: ')
+let programLanguage = prompt('Whats tecnlogi you study: ')
+
+alert(`Nice to meet you ${name}, really your age is ${age}. Awsome.`);
+
+let answer = prompt(`Are you wanna like study ${programLanguage}`)
+
+if (answer == 'yes' || answer == 's') {
+    alert('Awsome! This is great you will be very successful.')
+} else {
+    alert('Ahh... Ok try learn another language.');
+}
+*/
