@@ -24,7 +24,6 @@ if (numeroDez == stringDez) {
 }
 
 
-
 console.log('Alguns comportamentos estranhos, todos esses exemplos retornando true:')
 console.log('1. false == 0 / 2. null == undefined / 3.  \t\r\n" == 0 / 4.  == 0')
 
