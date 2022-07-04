@@ -1,4 +1,4 @@
-// #7DaysOfCode - Lógica JS 2/7: Fluxo de decisão
+// #7DaysOfCode - Lógica JS 3/7: Fluxo de decisão
 
 console.log('In which area of tecnologi do you wanna work BackEnd or FrontEnd?')
 console.log('BackEnd - 1 / FrontEnd - 2')
