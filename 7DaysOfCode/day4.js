@@ -2,4 +2,15 @@
 
 let teste = Math.floor(Math.random() * 11)
 
-    console.log(teste)
+
+function discoverNumber(n) {
+
+    for (let i = 0; i <= 3; i++) {
+        if (n == teste) {
+            break
+        }
+        
+    }
+}
+
+
