@@ -7,7 +7,8 @@ stackChoose = true
 
 if (stackChoose) {
     console.log('Cool in this area you can choose work Java or C-sharp.')
-} else {
+} 
+else {
     console.log('Awsome in this area you can choose work React, Vue.')
 }
 
@@ -17,7 +18,8 @@ continueStudy = true
 
 if (continueStudy) {
     console.log('Nice you have a long road to running and a bigger future!')
-} else {
+} 
+else {
     console.log('This is a great ideia.')
 }
 
