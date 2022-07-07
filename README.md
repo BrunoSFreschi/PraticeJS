@@ -1,4 +1,3 @@
 Pratice JS 
 
-
-I creat this repositori to pratice JS whith NodeJS.
+I created this repository to practice JS with NodeJS.
