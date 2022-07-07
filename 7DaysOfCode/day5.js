@@ -1,4 +1,4 @@
-// #7DaysOfCode - Lógica JS 4/7: Array e coleções
+// #7DaysOfCode - Lógica JS 5/7: Array e coleções
 
 let listBuy = {
     Fruit: [
