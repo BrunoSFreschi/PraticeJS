@@ -1,5 +1,4 @@
 
-
 function bhaskaraForm(a, b, c) {
     const delta = b * b - 4 * a * c
 

@@ -1,8 +1,7 @@
 
-
-function PythagoreanTheorem(CatetoOspoto, CatetoAdjacente) {
+function PythagoreanTheorem(opposite, adjacent) {
     
-    const hypotenuse = Math.sqrt((Math.pow(CatetoAdjacente, 2) + Math.pow(CatetoOspoto, 2)))
+    const hypotenuse = Math.sqrt((Math.pow(adjacent, 2) + Math.pow(opposite, 2)))
 
     console.log(hypotenuse)
 }
