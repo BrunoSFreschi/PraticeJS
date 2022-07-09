@@ -1,5 +1,3 @@
-# 7DaysOfCode
-## Alura
-Jornada no #7DaysOfCode com JS :wink:
+Pratice JS 
 
-NodeJS.
+I created this repository to practice JS with NodeJS.
