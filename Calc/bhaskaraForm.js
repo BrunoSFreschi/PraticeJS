@@ -9,7 +9,7 @@ function bhaskaraForm(a, b, c) {
         console.log('The value cannot be empty A.')
     }
     else if (delta < 0) {
-        console.log('')
+        console.log('The Delta value cannot equals 0')
     }
     else{
         const x1 = (-b + Math.sqrt(delta)) / (2 * a)
